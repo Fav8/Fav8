@@ -1,6 +1,6 @@
 ## Hi, I am Leonardo 👋
 
-I am a Fullstack developer 💻 and I like to code in Javascript, I enjoy building software that I actaully use in my life like an expenses manager app (⬇ more below...) or a scraper to buy used goods at the best price (coming soon for you to enjoy 😊). If I'm not sitting in a desk coding away, you'll find me reading or going deep in absolutelly useless topics untill three in the morning 😂.
+I am a Fullstack developer 💻 and I like to code in Javascript, I enjoy building software that I actually use in my life like an expenses manager app (⬇ more below...) or a scraper to buy used goods at the best price (coming soon for you to enjoy 😊). If I'm not sitting in a desk coding away, you'll find me reading or going deep in absolutely useless topics until three in the morning 😂.
 
 [![Linkedin: Leonardo_D'Amico](https://img.shields.io/badge/-Leonardo_D'Amico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-d-amico/)](https://www.linkedin.com/in/leonardo-d-amico/)
 [![GitHub Fav8](https://img.shields.io/github/followers/Fav8?label=follow&style=social)](https://github.com/Fav8)
