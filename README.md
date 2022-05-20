@@ -9,7 +9,7 @@ I am a Fullstack developer 💻 and I like to code in Javascript, I enjoy buildi
 
 ## Pet projects 💪
 
-### 🥋 ClassDojo  [www](https://www.staging.classdojo.ninja) [repo](https://github.com/class-dojo) 
+### 🥋 ClassDojo  [💻Live version](https://www.staging.classdojo.ninja) [📄 repo](https://github.com/class-dojo) 
 ClassDojo empowers teachers in virtual classrooms with a selection of tools to gauge student interest and emotional response during lectures. The app leverages Computer Vision to detect emotions of students and extracts information such as mood and attention, that are all displayed in a set of interactive charts, all conveniently fitted into a comprehensive dashboard.
 
 ### 💸 GrouPay  [💻Full Stack Repo ](https://github.com/Fav8/groupay) [ 📱Mobile Repo](https://github.com/Fav8/groupay_mobile)
