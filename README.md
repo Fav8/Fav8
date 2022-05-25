@@ -5,8 +5,6 @@ I am a Fullstack developer 💻 and I like to code in Javascript, I enjoy buildi
 [![Linkedin: Leonardo_D'Amico](https://img.shields.io/badge/-Leonardo_D'Amico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-d-amico/)](https://www.linkedin.com/in/leonardo-d-amico/)
 [![GitHub Fav8](https://img.shields.io/github/followers/Fav8?label=follow&style=social)](https://github.com/Fav8)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fav8&bg_color=ffffff&color=000000&line=00ff2a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Pet projects 💪
 
 ### 🥋 ClassDojo  [💻Live Version](https://www.classdojo.ninja) [📄 Repo](https://github.com/class-dojo) 
